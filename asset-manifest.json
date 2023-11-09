@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/whatsapp-/static/css/main.b3f9432a.css",
+    "main.js": "/whatsapp-/static/js/main.df36422f.js",
+    "static/media/iman.png": "/whatsapp-/static/media/iman.03f303b66924b0efd1bc.png",
+    "static/media/what2.png": "/whatsapp-/static/media/what2.9f780a0c61f710f1dc7c.png",
+    "static/media/astronaut4.jpg": "/whatsapp-/static/media/astronaut4.da1a829440675e6fbd79.jpg",
+    "static/media/astro.jpg": "/whatsapp-/static/media/astro.68187f5303a89400ccef.jpg",
+    "static/media/what6.png": "/whatsapp-/static/media/what6.3bd7628a360709e9b141.png",
+    "static/media/what5.png": "/whatsapp-/static/media/what5.e15774404e792c4ddfbf.png",
+    "static/media/astronut2.jpeg": "/whatsapp-/static/media/astronut2.512ecab9338e477fea67.jpeg",
+    "static/media/jamorant4.png": "/whatsapp-/static/media/jamorant4.69a5b4bedfc9e6848f53.png",
+    "static/media/cobra.jpg": "/whatsapp-/static/media/cobra.db2802cac1c54b8366e8.jpg",
+    "static/media/astronut11.jpg": "/whatsapp-/static/media/astronut11.c695ef166350d35f81f3.jpg",
+    "static/media/astronut4.jpg": "/whatsapp-/static/media/astronut4.695d34b0afe3d4bae27e.jpg",
+    "static/media/what13.png": "/whatsapp-/static/media/what13.fea859795c606e96fdff.png",
+    "static/media/astronut12.jpeg": "/whatsapp-/static/media/astronut12.22db770bd960a7e996fb.jpeg",
+    "static/media/donda2.jpg": "/whatsapp-/static/media/donda2.eba5be70d363350aec8a.jpg",
+    "static/media/nyc2.jpg": "/whatsapp-/static/media/nyc2.8969e54aa41e41150bfb.jpg",
+    "static/media/shoe.jpg": "/whatsapp-/static/media/shoe.69714df76cbabfe48f8b.jpg",
+    "static/media/nyc7.jpg": "/whatsapp-/static/media/nyc7.e570652da9d1419615be.jpg",
+    "static/media/astronaut3.jpg": "/whatsapp-/static/media/astronaut3.faf26cdf00b0cd77c371.jpg",
+    "static/media/nyc5.jpg": "/whatsapp-/static/media/nyc5.30ebf8ed691de6c106bc.jpg",
+    "static/media/what11.png": "/whatsapp-/static/media/what11.2822c0282ab495c653bf.png",
+    "static/media/nyc3.jpg": "/whatsapp-/static/media/nyc3.79576009aae0e7711bb0.jpg",
+    "static/media/nyc.jpg": "/whatsapp-/static/media/nyc.bc0ece58f667782af127.jpg",
+    "static/media/logo.png": "/whatsapp-/static/media/logo.a8df74fe61b9ad1b94f7.png",
+    "static/media/nyc4.jpg": "/whatsapp-/static/media/nyc4.efbbc375f29ad5e509c4.jpg",
+    "static/media/what10.png": "/whatsapp-/static/media/what10.e36d294d46bfe1e5f93d.png",
+    "static/media/what8.png": "/whatsapp-/static/media/what8.f2274713ea1f0298d875.png",
+    "static/media/what12.png": "/whatsapp-/static/media/what12.0e8252a48d398c2f9c54.png",
+    "index.html": "/whatsapp-/index.html",
+    "main.b3f9432a.css.map": "/whatsapp-/static/css/main.b3f9432a.css.map",
+    "main.df36422f.js.map": "/whatsapp-/static/js/main.df36422f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3f9432a.css",
+    "static/js/main.df36422f.js"
+  ]
+}
